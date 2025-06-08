@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Allow: /
+
+# 网站地图
+Sitemap: https://justmysocks5.github.io/sitemap.xml
