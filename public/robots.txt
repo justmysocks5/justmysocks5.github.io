@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://justhostreview.github.io/sitemap.xml
+Sitemap: https://justmysocks5.github.io/sitemap.xml

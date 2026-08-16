@@ -1,10 +1,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://justhostreview.github.io/</loc>
+    <loc>https://justmysocks5.github.io/just-my-socks-speed-test/</loc>
+    <lastmod>2026-08-16T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://justhostreview.github.io/tags/</loc>
+    <loc>https://justmysocks5.github.io/just-my-socks-price/</loc>
+    <lastmod>2026-08-16T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justmysocks5.github.io/just-my-socks-tutorial/</loc>
+    <lastmod>2026-08-16T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justmysocks5.github.io/</loc>
+    <lastmod>2026-08-16T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justmysocks5.github.io/tags/</loc>
     <priority>0.5</priority>
   </url>
 </urlset>
